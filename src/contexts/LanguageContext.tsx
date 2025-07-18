@@ -18,6 +18,8 @@ const translations = {
     vision: 'Our Vision',
     history: 'Company History',
     services: 'Our Services',
+    portfolio: 'Portfolio',
+    whyUs: 'Why Choose Us',
     contact: 'Contact Us',
     
     // Hero Section
@@ -76,6 +78,8 @@ const translations = {
     vision: 'رؤيتنا',
     history: 'تاريخ الشركة',
     services: 'خدماتنا',
+    portfolio: 'أعمالنا',
+    whyUs: 'لماذا تختارنا',
     contact: 'اتصل بنا',
     
     // Hero Section
