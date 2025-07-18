@@ -9,14 +9,14 @@ export function Contact() {
     {
       icon: Phone,
       label: t('phone'),
-      value: '+966 50 123 4567',
+      value: '+966556444809',
       color: 'text-blue-700',
       bgColor: 'bg-blue-50',
     },
     {
       icon: Mail,
       label: t('email'),
-      value: 'info@mgcompany.sa',
+      value: 'mgcompany84@gmail.com',
       color: 'text-green-600',
       bgColor: 'bg-green-50',
     },
@@ -87,7 +87,7 @@ export function Contact() {
                 }
               </p>
               <a 
-                href="tel:+966501234567"
+                href="tel:+966556444809"
                 className="inline-flex items-center gap-2 bg-white text-blue-700 px-8 py-3 rounded-lg font-semibold hover:bg-gray-50 transition-colors"
               >
                 <Phone className="h-5 w-5" />
